@@ -1,0 +1,230 @@
+{
+  "checksum": {
+    "previous": "f45e01a16989f9fc802eebb7307bdd89d3270ccf096843f888285bbcde9122b1",
+    "current": "f45e01a16989f9fc802eebb7307bdd89d3270ccf096843f888285bbcde9122b1"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_f45e01a16989f9fc802eebb7307bdd89.ttf",
+    "fontcustom/fontcustom_f45e01a16989f9fc802eebb7307bdd89.svg",
+    "fontcustom/fontcustom_f45e01a16989f9fc802eebb7307bdd89.woff",
+    "fontcustom/fontcustom_f45e01a16989f9fc802eebb7307bdd89.eot"
+  ],
+  "glyphs": {
+    "account-addresses": {
+      "codepoint": 61696,
+      "source": "./account-addresses.svg"
+    },
+    "account-manage-account": {
+      "codepoint": 61697,
+      "source": "./account-manage-account.svg"
+    },
+    "account-reviews": {
+      "codepoint": 61698,
+      "source": "./account-reviews.svg"
+    },
+    "account-support": {
+      "codepoint": 61699,
+      "source": "./account-support.svg"
+    },
+    "account-track-order": {
+      "codepoint": 61700,
+      "source": "./account-track-order.svg"
+    },
+    "account-transactions": {
+      "codepoint": 61701,
+      "source": "./account-transactions.svg"
+    },
+    "collection-empty": {
+      "codepoint": 61702,
+      "source": "./collection-empty.svg"
+    },
+    "collection-filter-open": {
+      "codepoint": 61703,
+      "source": "./collection-filter-open.svg"
+    },
+    "collection-filterbar-candy": {
+      "codepoint": 61704,
+      "source": "./collection-filterbar-candy.svg"
+    },
+    "collection-filterbar-candy-selected": {
+      "codepoint": 61705,
+      "source": "./collection-filterbar-candy-selected.svg"
+    },
+    "collection-filterbar-cool": {
+      "codepoint": 61706,
+      "source": "./collection-filterbar-cool.svg"
+    },
+    "collection-filterbar-cool-selected": {
+      "codepoint": 61707,
+      "source": "./collection-filterbar-cool-selected.svg"
+    },
+    "collection-filterbar-dessert": {
+      "codepoint": 61708,
+      "source": "./collection-filterbar-dessert.svg"
+    },
+    "collection-filterbar-dessert-selected": {
+      "codepoint": 61709,
+      "source": "./collection-filterbar-dessert-selected.svg"
+    },
+    "collection-filterbar-fruit": {
+      "codepoint": 61710,
+      "source": "./collection-filterbar-fruit.svg"
+    },
+    "collection-filterbar-fruit-selected": {
+      "codepoint": 61711,
+      "source": "./collection-filterbar-fruit-selected.svg"
+    },
+    "collection-filterbar-other": {
+      "codepoint": 61712,
+      "source": "./collection-filterbar-other.svg"
+    },
+    "collection-filterbar-other-selected": {
+      "codepoint": 61713,
+      "source": "./collection-filterbar-other-selected.svg"
+    },
+    "collection-item-review-star": {
+      "codepoint": 61714,
+      "source": "./collection-item-review-star.svg"
+    },
+    "collection-item-review-star-empty": {
+      "codepoint": 61715,
+      "source": "./collection-item-review-star-empty.svg"
+    },
+    "collection-item-review-star-half": {
+      "codepoint": 61716,
+      "source": "./collection-item-review-star-half.svg"
+    },
+    "delete": {
+      "codepoint": 61717,
+      "source": "./delete.svg"
+    },
+    "edit": {
+      "codepoint": 61718,
+      "source": "./edit.svg"
+    },
+    "facebook": {
+      "codepoint": 61719,
+      "source": "./facebook.svg"
+    },
+    "general-not-found": {
+      "codepoint": 61720,
+      "source": "./general-not-found.svg"
+    },
+    "info": {
+      "codepoint": 61721,
+      "source": "./info.svg"
+    },
+    "instagram": {
+      "codepoint": 61722,
+      "source": "./instagram.svg"
+    },
+    "mail": {
+      "codepoint": 61723,
+      "source": "./mail.svg"
+    },
+    "navbar-account": {
+      "codepoint": 61724,
+      "source": "./navbar-account.svg"
+    },
+    "navbar-cart": {
+      "codepoint": 61725,
+      "source": "./navbar-cart.svg"
+    },
+    "navbar-cross": {
+      "codepoint": 61726,
+      "source": "./navbar-cross.svg"
+    },
+    "navbar-left-arrow": {
+      "codepoint": 61727,
+      "source": "./navbar-left-arrow.svg"
+    },
+    "navbar-menu": {
+      "codepoint": 61728,
+      "source": "./navbar-menu.svg"
+    },
+    "navbar-promo": {
+      "codepoint": 61729,
+      "source": "./navbar-promo.svg"
+    },
+    "navbar-reorder": {
+      "codepoint": 61730,
+      "source": "./navbar-reorder.svg"
+    },
+    "navbar-rewards": {
+      "codepoint": 61731,
+      "source": "./navbar-rewards.svg"
+    },
+    "navbar-right-arrow": {
+      "codepoint": 61732,
+      "source": "./navbar-right-arrow.svg"
+    },
+    "navbar-search": {
+      "codepoint": 61733,
+      "source": "./navbar-search.svg"
+    },
+    "navbar-shipping": {
+      "codepoint": 61734,
+      "source": "./navbar-shipping.svg"
+    },
+    "navbar-support": {
+      "codepoint": 61735,
+      "source": "./navbar-support.svg"
+    },
+    "no-orders": {
+      "codepoint": 61736,
+      "source": "./no-orders.svg"
+    },
+    "not-found": {
+      "codepoint": 61737,
+      "source": "./not-found.svg"
+    },
+    "promo-percent": {
+      "codepoint": 61738,
+      "source": "./promo-percent.svg"
+    },
+    "promo-shipping": {
+      "codepoint": 61739,
+      "source": "./promo-shipping.svg"
+    },
+    "promo-www": {
+      "codepoint": 61740,
+      "source": "./promo-www.svg"
+    },
+    "under-construction": {
+      "codepoint": 61741,
+      "source": "./under-construction.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

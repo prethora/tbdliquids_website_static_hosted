@@ -1,0 +1,13 @@
+#!/bin/bash
+
+[[ -e "vectors/.fontcustom-manifest.json" ]] && rm "vectors/.fontcustom-manifest.json"
+[[ -e "vectors/fontcustom.yml" ]] && rm "vectors/fontcustom.yml"
+[[ -e "vectors/fontcustom" ]] && rm -rf "vectors/fontcustom.yml"
+docker run -i -t --volume $(pwd)/vectors:/rubyapp/fonts/ codeclou/docker-fontcustom:latest fontcustom config
+docker run -i -t --volume $(pwd)/vectors:/rubyapp/fonts/ codeclou/docker-fontcustom:latest fontcustom compile
+node -e 'require("fs").writeFileSync("./vectors/fontcustom/fontcustom.css",require("fs").readFileSync("./vectors/fontcustom/fontcustom.css","utf8").split("\n").filter((line) => line.indexOf(".eot")===-1).map((line) => (line.indexOf("(\"woff\")")!==-1)?"  src: "+line.substr(7):line).join("\n"))'
+
+# [[ -e "vector-font" ]] && rm -rf "vector-font"
+# [[ -e ".fontcustom-manifest.json" ]] && rm ".fontcustom-manifest.json"
+# fontcustom compile -n "vector-font" "./vectors"
+# node -e 'require("fs").writeFileSync("./vector-font/vector-font.css",require("fs").readFileSync("./vector-font/vector-font.css","utf8").split("\n").filter((line) => line.indexOf(".eot")===-1).map((line) => (line.indexOf("(\"woff2\")")!==-1)?"  src: "+line.substr(7):line).join("\n"))'

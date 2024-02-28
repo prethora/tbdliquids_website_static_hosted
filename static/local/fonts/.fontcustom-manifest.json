@@ -1,0 +1,192 @@
+{
+  "checksum": {
+    "previous": "",
+    "current": "bf9f93d4d170731ec15b1aec495ccc132e32fc5c6c8fcac201fcb31ffd651e52"
+  },
+  "fonts": [
+
+  ],
+  "glyphs": {
+    "collection-empty": {
+      "source": "./vectors/collection-empty.svg",
+      "codepoint": 61696
+    },
+    "collection-filter-open": {
+      "source": "./vectors/collection-filter-open.svg",
+      "codepoint": 61697
+    },
+    "collection-filterbar-candy": {
+      "source": "./vectors/collection-filterbar-candy.svg",
+      "codepoint": 61698
+    },
+    "collection-filterbar-candy-selected": {
+      "source": "./vectors/collection-filterbar-candy-selected.svg",
+      "codepoint": 61699
+    },
+    "collection-filterbar-cool": {
+      "source": "./vectors/collection-filterbar-cool.svg",
+      "codepoint": 61700
+    },
+    "collection-filterbar-cool-selected": {
+      "source": "./vectors/collection-filterbar-cool-selected.svg",
+      "codepoint": 61701
+    },
+    "collection-filterbar-dessert": {
+      "source": "./vectors/collection-filterbar-dessert.svg",
+      "codepoint": 61702
+    },
+    "collection-filterbar-dessert-selected": {
+      "source": "./vectors/collection-filterbar-dessert-selected.svg",
+      "codepoint": 61703
+    },
+    "collection-filterbar-fruit": {
+      "source": "./vectors/collection-filterbar-fruit.svg",
+      "codepoint": 61704
+    },
+    "collection-filterbar-fruit-selected": {
+      "source": "./vectors/collection-filterbar-fruit-selected.svg",
+      "codepoint": 61705
+    },
+    "collection-filterbar-other": {
+      "source": "./vectors/collection-filterbar-other.svg",
+      "codepoint": 61706
+    },
+    "collection-filterbar-other-selected": {
+      "source": "./vectors/collection-filterbar-other-selected.svg",
+      "codepoint": 61707
+    },
+    "collection-item-review-star": {
+      "source": "./vectors/collection-item-review-star.svg",
+      "codepoint": 61708
+    },
+    "collection-item-review-star-empty": {
+      "source": "./vectors/collection-item-review-star-empty.svg",
+      "codepoint": 61709
+    },
+    "collection-item-review-star-half": {
+      "source": "./vectors/collection-item-review-star-half.svg",
+      "codepoint": 61710
+    },
+    "facebook": {
+      "source": "./vectors/facebook.svg",
+      "codepoint": 61711
+    },
+    "general-not-found": {
+      "source": "./vectors/general-not-found.svg",
+      "codepoint": 61712
+    },
+    "info": {
+      "source": "./vectors/info.svg",
+      "codepoint": 61713
+    },
+    "instagram": {
+      "source": "./vectors/instagram.svg",
+      "codepoint": 61714
+    },
+    "mail": {
+      "source": "./vectors/mail.svg",
+      "codepoint": 61715
+    },
+    "navbar-account": {
+      "source": "./vectors/navbar-account.svg",
+      "codepoint": 61716
+    },
+    "navbar-cart": {
+      "source": "./vectors/navbar-cart.svg",
+      "codepoint": 61717
+    },
+    "navbar-cross": {
+      "source": "./vectors/navbar-cross.svg",
+      "codepoint": 61718
+    },
+    "navbar-left-arrow": {
+      "source": "./vectors/navbar-left-arrow.svg",
+      "codepoint": 61719
+    },
+    "navbar-menu": {
+      "source": "./vectors/navbar-menu.svg",
+      "codepoint": 61720
+    },
+    "navbar-promo": {
+      "source": "./vectors/navbar-promo.svg",
+      "codepoint": 61721
+    },
+    "navbar-reorder": {
+      "source": "./vectors/navbar-reorder.svg",
+      "codepoint": 61722
+    },
+    "navbar-rewards": {
+      "source": "./vectors/navbar-rewards.svg",
+      "codepoint": 61723
+    },
+    "navbar-right-arrow": {
+      "source": "./vectors/navbar-right-arrow.svg",
+      "codepoint": 61724
+    },
+    "navbar-search": {
+      "source": "./vectors/navbar-search.svg",
+      "codepoint": 61725
+    },
+    "navbar-shipping": {
+      "source": "./vectors/navbar-shipping.svg",
+      "codepoint": 61726
+    },
+    "navbar-support": {
+      "source": "./vectors/navbar-support.svg",
+      "codepoint": 61727
+    },
+    "not-found": {
+      "source": "./vectors/not-found.svg",
+      "codepoint": 61728
+    },
+    "promo-percent": {
+      "source": "./vectors/promo-percent.svg",
+      "codepoint": 61729
+    },
+    "promo-shipping": {
+      "source": "./vectors/promo-shipping.svg",
+      "codepoint": 61730
+    },
+    "promo-www": {
+      "source": "./vectors/promo-www.svg",
+      "codepoint": 61731
+    },
+    "under-construction": {
+      "source": "./vectors/under-construction.svg",
+      "codepoint": 61732
+    }
+  },
+  "options": {
+    "input": {
+      "vectors": "./vectors",
+      "templates": "./vectors"
+    },
+    "output": {
+      "fonts": "vector-font",
+      "css": "vector-font",
+      "preview": "vector-font"
+    },
+    "config": false,
+    "templates": [
+      "css",
+      "preview"
+    ],
+    "font_name": "vector-font",
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "css_selector": ".icon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": false,
+    "css3": false,
+    "debug": false,
+    "force": false,
+    "quiet": false,
+    "copyright": ""
+  },
+  "templates": [
+
+  ]
+}

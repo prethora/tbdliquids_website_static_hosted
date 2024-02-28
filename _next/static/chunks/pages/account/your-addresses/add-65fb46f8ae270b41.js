@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[373],{412:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/account/your-addresses/add",function(){return t(8602)}])},8602:function(n,u,t){"use strict";t.r(u);var c=t(5893),e=t(7037),a=t(8851),r=(0,e.pT)((function(n){n.result,n.account;return(0,c.jsx)(a.Z,{context:"manage",subContext:"add",cancelPath:"/account/your-addresses"})}));u.default=r}},function(n){n.O(0,[37,350,716,317,851,774,888,179],(function(){return u=412,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=add-65fb46f8ae270b41.js.map

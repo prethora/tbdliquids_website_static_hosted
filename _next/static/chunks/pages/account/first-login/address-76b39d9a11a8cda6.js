@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[766],{6640:function(n,u,r){(window.__NEXT_P=window.__NEXT_P||[]).push(["/account/first-login/address",function(){return r(6931)}])},6931:function(n,u,r){"use strict";r.r(u);var t=r(1351),e=r(5893),c=r(7037),i=r(8851),o=(0,c.pT)((function(n){n=null!==n?n:(0,t.Z)(new TypeError("Cannot destructure undefined"));return(0,e.jsx)(i.Z,{})}));u.default=o}},function(n){n.O(0,[37,350,716,317,851,774,888,179],(function(){return u=6640,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=address-76b39d9a11a8cda6.js.map
